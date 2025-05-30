@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: deekshav.github.io/sitemap.xml
+Sitemap: deekshaVarshney.github.io/sitemap.xml
